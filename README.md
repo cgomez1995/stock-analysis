@@ -1,5 +1,4 @@
 # stock-analysis
-[green_stocks.xlsm.zip](https://github.com/cgomez1995/stock-analysis/files/8174446/green_stocks.xlsm.zip)
 Question for the code below: I get a Microsoft Visual Basic message "Run-time error '6': Overflow"
 Sub DQAnalysis()
     Worksheets("DQ Analysis").Activate
