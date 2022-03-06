@@ -127,6 +127,8 @@ Next i
 
 End Sub
 ### Results
+<img width="257" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/98627709/156926297-1d906d31-07d9-4e84-91f8-f0249af33de8.png">
+<img width="257" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/98627709/156926303-6b515191-fafe-4b8a-ac47-868aa900892f.png">
 
 ## Conclusion
 
