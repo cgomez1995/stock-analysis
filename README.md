@@ -1,8 +1,4 @@
 # stock-analysis
-Question for the code below: I get a Microsoft Visual Basic message "Run-time error '6': Overflow"
-Question for the code below: I clear everything and everytime I choose to run the code there is no Macro to choose it from.
-Questions for the code below: I am not getting this error. Compile error: Invalid outside procedure
-
 Sub MacroCheck()
 
     Dim testMessage As String
@@ -194,9 +190,11 @@ End Sub
 
 
 Sub yearValueAnalysis()
-'
-' yearValueAnalysis Macro
-'
 yearValue = InputBox("What year would you like to run the analysis on?")
 '
+' yearValueAnalysis Macro
+
+    Range("I13").Select
+    Sheets("2017").Select
+    Columns("B:B").Select
 End Sub
