@@ -1,6 +1,7 @@
 # stock-analysis
 Question for the code below: I get a Microsoft Visual Basic message "Run-time error '6': Overflow"
 Question for the code below: I clear everything and everytime I choose to run the code there is no Macro to choose it from.
+Questions for the code below: I am not getting this error. Compile error: Invalid outside procedure
 Sub DQAnalysis()
     Worksheets("DQ Analysis").Activate
 
@@ -52,3 +53,5 @@ Sub DQAnalysis()
     Cells(4, 3).Value = (endingPrice / startingPrice) - 1
 
 End Sub
+
+
