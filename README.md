@@ -1,5 +1,6 @@
 # stock-analysis
 Question for the code below: I get a Microsoft Visual Basic message "Run-time error '6': Overflow"
+Question for the code below: I clear everything and everytime I choose to run the code there is no Macro to choose it from.
 Sub DQAnalysis()
     Worksheets("DQ Analysis").Activate
 
