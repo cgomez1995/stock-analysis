@@ -4,7 +4,7 @@
 
 ### Purpose And Data
 
-The client wants to expand the dataset to include the entire stock market over the last few years (2017 and 2018). Refactoring is a key part of the coding process; a previous code was refactored to hopefully make the VBA script run faster. In the refactored code, no new aren’t new functionality are added, instead just make the code more efficient through taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. After the code was refactored, the analysis can help the client in determining if investing in certain stocks is worth it.
+The client wants to expand the dataset to include the entire stock market over the last few years (2017 and 2018). Refactoring is a key part of the coding process; a previous code was refactored to hopefully make the VBA script run faster. In the refactored code, no new aren’t new functionality are added, instead just make the code more efficient through taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. After the code was refactored, the analysis can help the client in determining if investing in certain stocks is worth it. The data used includes two spreadsheets with information on 12 different stocks. The stock information available includes a ticker value, the date the stock was issued, the opening, closing and adjusted closing price, the highest and lowest price, and the volume of the stock. The goal is to retrieve the ticker, the total daily volume, and the return on each stock and to determine how much time it took to execute.
 
 ### Analysis Code
 Sub AllStocksAnalysisRefactored()
