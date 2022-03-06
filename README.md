@@ -189,3 +189,14 @@ Next i
     MsgBox "This code ran in " & (endTime - startTime) & " seconds for the year " & (yearValue)
 
 End Sub
+
+
+
+
+Sub yearValueAnalysis()
+'
+' yearValueAnalysis Macro
+'
+yearValue = InputBox("What year would you like to run the analysis on?")
+'
+End Sub
