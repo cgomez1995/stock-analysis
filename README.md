@@ -1,4 +1,4 @@
-#Stock Analysis In Excel using VBA
+# Stock Analysis In Excel using VBA
 
 ## Overview
 
