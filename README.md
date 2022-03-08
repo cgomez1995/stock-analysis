@@ -130,7 +130,5 @@ End Sub
 <img width="257" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/98627709/156926297-1d906d31-07d9-4e84-91f8-f0249af33de8.png">
 <img width="257" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/98627709/156926303-6b515191-fafe-4b8a-ac47-868aa900892f.png">
 
-Excel File [VBA_Challenge.xlsm.zip](https://github.com/cgomez1995/stock-analysis/files/8192716/VBA_Challenge.xlsm.zip)
-
 ## Conclusion
 Refactoring code helps make the process more organized. Some disadvantages that may not allow code to be refactored are large applications that are too large and pose some risk to ruin the code. As a result of refactoring the code, the in macro run time was a decreased. The original analysis took longer run, the new analysis took 0.046875 seconds for 2017 and 0.05859375 seconds for 2018, as showcased above. 
